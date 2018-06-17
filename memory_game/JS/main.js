@@ -1,4 +1,4 @@
-cards = [
+var cards = [
 {
 	rank: "queen",
 	suit: "hearts",
